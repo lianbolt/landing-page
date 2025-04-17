@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-    background-color: #1F2937;
+    background-color: #6F73D2;
     color: #f9faf8;
     display: flex;
     justify-content: space-between;
@@ -33,7 +33,7 @@ a {
 }
 
 .hero {
-    background-color: #1F2937;
+    background-color: #6F73D2;
     display: flex;
     flex-basis: 0%;
     justify-content: center;
@@ -68,8 +68,8 @@ img {
 
 .signup-button {
     color:#f9faf8;
-    background-color: #3882F6;
-    border: 1px solid #3882F6;
+    background-color: #83C9F4;
+    border: 1px solid #83C9F4;
     flex-shrink: 0;
     border-radius: 5px;
     width: 75px;
@@ -87,7 +87,7 @@ img {
 
 .information-header {
     font-size: 36px;
-    color:#1F2937;
+    color:#7681B3;
     font-weight: 900;
     padding-bottom: 50px;
 }
@@ -101,7 +101,7 @@ img {
 }
 
 .card {
-    border: 2px solid #3882F6;
+    border: 2px solid #A3D5FF;
     height: 100px;
     width: 100px;
     border-radius: 10px;
@@ -121,13 +121,13 @@ img {
 }
 
 .quote-container {
-    background-color: #E5E7EB;
+    background-color: #D9F0FF;
     Padding: 100px 150px;
 }
 
 .quote {
     font-style:italic;
-    color: #1F2937;
+    color: #7681B3;
     font-size: 36px;
     font-weight:lighter;
     margin-bottom: 20px;
@@ -144,8 +144,8 @@ img {
 }
 
 .action-container {
-    background-color: #3882F6;
-    color:#f9faf8;
+    background-color: #7681B3;
+    color: #f9faf8;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -164,7 +164,7 @@ img {
 
 .action-button {
     color: #f9faf8;
-    background-color: #3882F6;
+    background-color: #7681B3;
     border: 2px solid #f9faf8;
     border-radius: 5px;
     width: 75px;
@@ -172,7 +172,7 @@ img {
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #6F73D2;
     color:#E5E7EB;
     text-align: center;
     padding: 25px;
